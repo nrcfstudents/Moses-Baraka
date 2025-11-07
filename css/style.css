@@ -66,4 +66,8 @@ h2{
   footer{
     font-size: 14px;
   }
+  .card{
+    background-color: gray;
+    border-radius: 10px;
+  }
 
